@@ -1,1 +1,1 @@
-<p align="center"><sub>THIS IS A WIP</sub>
+<p align="center">THIS IS A WIP
